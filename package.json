@@ -1,0 +1,27 @@
+{
+  "name": "stackadapttest",
+  "version": "1.0.0",
+  "description": "Test Cypress Skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssanDev1/stackadapt_test.git"
+  },
+  "keywords": [
+    "test",
+    "stackadapt",
+    "cypress"
+  ],
+  "author": "Sergio S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssanDev1/stackadapt_test/issues"
+  },
+  "homepage": "https://github.com/ssanDev1/stackadapt_test#readme",
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  }
+}
