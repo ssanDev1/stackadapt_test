@@ -1,0 +1,12 @@
+{
+  "validName": "Sergio Tester",
+  "invalidName": "!@#$%^",
+  "updatedName": "Sergio Updated",
+  "baseEmail": "test@gmail.com",
+  "invalidEmail": "sergioInvalidEmail",
+  "validPassword": "Password1234",
+  "invalidPassword": "bad1",
+  "updatedPassword": "Password5678",
+
+  "body": "Let's create some mock text here to fill out StackTodo forms just in case"
+}

@@ -4,7 +4,8 @@
   "description": "Test Cypress Skills",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+    "headless": "npx cypress run"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,8 @@
   },
   "homepage": "https://github.com/ssanDev1/stackadapt_test#readme",
   "devDependencies": {
-    "cypress": "^12.2.0"
+    "cypress": "^12.2.0",
+    "cypress-mochawesome-reporter": "^3.2.3",
+    "typescript": "^4.9.4"
   }
 }
