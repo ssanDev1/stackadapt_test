@@ -3,6 +3,10 @@ any questions, please email me to slsanch@gmail.com - Sergio S.
 
 To run the tests, you can use the following commands:
 
+First, let's install everything:
+
+npm install
+
 ## To run Cypress with Chrome and Cypress UI:
 
 npm run test 
