@@ -11,6 +11,8 @@ npm install
 
 npm run test 
 
+(You can then select 'E2E Testing' in the UI menu, and then select Chrome as your test browser)
+
 ## To run Cypress headlessly:
 
 npm run headless
