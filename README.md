@@ -47,8 +47,7 @@ Open the 'index.html' file to view the report. That's it!
 
 **NOTES:**
 
-I attempted to speed up the login process by hitting the API directly, unfortunately I did not get time to configure the header response on time to do it properly. My attempt can be found
-in the commands.ts section with the following function. I should clarify that I truly feel I was very close to accomplishing this point, but was only hindered by time! :(
+I attempted to speed up the login process by hitting the API directly, unfortunately I did not get time to configure the header response on time to do it properly. My attempt can be found in the commands.ts section with the following function. I should clarify that I truly feel I was very close to accomplishing this point, but was only hindered by time! Another mention is that this could also be easily accelerated using the cy.session helper from Cypress, which should preserve the login credentials.
 
 ```js
   Cypress.Commands.add('loginByCSRF', (csrfToken, name, email, password) => {
