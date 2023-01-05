@@ -1,3 +1,6 @@
+// NOTE: I got accidentally redirected to the optical section of the site: https://us.lindafarrow.com/collections/optical
+// And ended up doing the exercise based on that one. The concepts are the same , but I apologize for the switch! 
+
 // This is the Page Object Model (POM) Excercise from the 2nd point in the 
 // StackAdapt test. It is unrelated to the rest of the source code from step 3.
 
