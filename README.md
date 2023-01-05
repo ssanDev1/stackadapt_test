@@ -1,9 +1,24 @@
 Hello team StackAdapt! This is Step 3 from my test. I hope things are clear but if you have 
 any questions, please email me to slsanch@gmail.com - Sergio S. 
 
-To run the tests, you can use the following commands:
+``` 
+Important Note
 
-## First, let's install everything: ##
+Due to an honest mistake, I based my answer for the assignment step 2 on the actual site:
+
+https://us.lindafarrow.com/collections/optical
+
+Instead of: 
+
+https://stackadapt-interview.s3.amazonaws.com/support/Chrysler+Optical+A+D-Frame+in+Tortoiseshell+by+LINDA+FARROW+Linear+%E2%80%93+LINDA+FARROW+(U.S.).html 
+
+The concepts are the same, but I apologize for the change. I was accidentally redirected and realized too late into the work :(.
+```
+
+Instructions:
+=============
+
+## First, let's install all dependencies: ##
 
 ```sh
 npm install
